@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'aileronultralight';
+    src: url('../fonts/Aileron-UltraLight-webfont.eot');
+    src: url('../fonts/Aileron-UltraLight-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Aileron-UltraLight-webfont.woff2') format('woff2'),
+    url('../fonts/Aileron-UltraLight-webfont.woff') format('woff'),
+    url('../fonts/Aileron-UltraLight-webfont.ttf') format('truetype'),
+    url('../fonts/Aileron-UltraLight-webfont.svg#aileronultralight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
